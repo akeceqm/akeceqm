@@ -9,6 +9,6 @@
     🐾 Рис🐰 • Макароны • Фарш • Индеечка • 50кг девочка🐤
 </pre>
 <br><br>
-<img src="https://github.com/akeceqm/akeceqm/blob/main/anime-swimming-hitori-bocchi.gif" height="40" />
+<img src="https://github.com/akeceqm/akeceqm/blob/main/anime-swimming-hitori-bocchi.gif" height="100" />
 <br><br><br>
 </div>
