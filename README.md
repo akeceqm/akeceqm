@@ -21,5 +21,4 @@ Skills: .Net/C#
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akeceqm&show_icons=true)  
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/akeceqm/contributions?format=svg&private=false)  
 
