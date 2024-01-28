@@ -9,6 +9,6 @@
     🐾 Рис🐰 • Макароны • Фарш • Индеечка • 50кг девочка🐤
 </pre>
 <br><br>
-<img src="https://github.com/akeceqm/akeceqm/blob/main/patapata.gif" height="100" />
+<img src="https://github.com/akeceqm/akeceqm/blob/main/불김.gif" height="100" />
 <br><br><br>
 </div>
