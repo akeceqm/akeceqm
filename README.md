@@ -9,6 +9,6 @@
     🐾 Рис🐰 • Макароны • Фарш • Индеечка • 50кг девочка🐤
 </pre>
 <br><br>
-<img src="[[https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif](https://media1.tenor.com/m/MYCVC47cd7cAAAAd/mesugaki-trezdo.gif)https://media1.tenor.com/m/MYCVC47cd7cAAAAd/mesugaki-trezdo.gif](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br><br>
 </div>
